@@ -1,2 +1,3 @@
 SWAP Solutions Team members personal pages
-swap-solutions.com/team/
+
+view them : [swap-solutions.com/team/](http://swap-solutions.com/team/)
